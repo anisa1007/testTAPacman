@@ -1,2 +1,2 @@
 # testTAPacman
-Untuk test TA Pacman 
+Untuk test TA membuat repository dan branch
